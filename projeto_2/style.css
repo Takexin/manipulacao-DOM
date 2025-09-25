@@ -1,0 +1,10 @@
+#reacao{
+    width: 100vw;
+    height : 30vh;
+}
+.default{
+    background-color: gray;
+}
+.ativo{
+    background-color: green;
+}
